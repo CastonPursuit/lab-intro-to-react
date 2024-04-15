@@ -1,0 +1,6 @@
+.posts-container {
+    background-color: blanchedalmond;
+    grid-column: 1/2;
+    grid-row: 3/4;
+
+}
